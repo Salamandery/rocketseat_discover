@@ -3,7 +3,7 @@
 Estudando e reaprendendo o básico:
 
 - [x] Conhecimento básico;
-- [ ] Básico de HTML;
+- [x] Básico de HTML;
 - [ ] Básico de CSS;
 - [ ] Básico de Javascript;
 - [ ] Básico de SQL
